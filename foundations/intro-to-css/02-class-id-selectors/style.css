@@ -1,0 +1,15 @@
+p {
+    background-color: rgb(243, 151, 151);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.second{
+    color:blue;
+    font-size: 36px;
+}
+.font24px{
+    font-size: 24px;
+}
+.fourth{
+    background-color: lightgreen;
+    font-weight: bold;
+}
